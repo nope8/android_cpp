@@ -1,0 +1,3 @@
+This is a sensor cpp sample, get sensor data by directly calling ndk api.
+
+Build: put the folder in aosp, make sensornative -j8 
